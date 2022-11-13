@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@axelar-network/axelar-local-dev": "github:axelarnetwork/axelar-local-dev",
+    "@openzeppelin/contracts": "^4.8.0"
+  }
+}
